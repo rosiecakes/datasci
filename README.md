@@ -9,3 +9,6 @@ edX Computational Thinking [.](https://www.edx.org/course/introduction-computati
 ### tracts:
 [now] dataquest data analyst (paid)
 
+#### todo  
+statistical inference course  
+first two chapters of "Data Mining for Business Applications"  
