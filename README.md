@@ -1,5 +1,8 @@
 # datasci
 
+### articles:
+https://hbr.org/2016/10/machine-learning-is-no-longer-just-for-experts  
+
 ### courses:
 [now] Harvard Data Science CSCI E-109  
 [now] coursera into to data science  
