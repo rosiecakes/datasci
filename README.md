@@ -17,3 +17,4 @@ edX Computational Thinking [.](https://www.edx.org/course/introduction-computati
 statistical inference course  
 first two chapters of "Data Mining for Business Applications"
 
+heat map
