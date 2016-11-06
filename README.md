@@ -2,6 +2,7 @@
 
 ### articles:
 https://hbr.org/2016/10/machine-learning-is-no-longer-just-for-experts  
+http://dataconomy.com/big-data-python/?utm_content=41150937&utm_medium=social&utm_source=twitter  
 
 ### courses:
 [now] Harvard Data Science CSCI E-109 [.](http://cs109.github.io/2015/)  
