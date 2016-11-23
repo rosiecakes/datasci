@@ -17,5 +17,3 @@ edX Systematic Program Design [.](https://www.edx.org/xseries/how-code-systemati
 #### todo  
 statistical inference course  
 first two chapters of "Data Mining for Business Applications"
-
-heat map
