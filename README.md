@@ -12,7 +12,7 @@ edX Computational Thinking [.](https://www.edx.org/course/introduction-computati
 edX Systematic Program Design [.](https://www.edx.org/xseries/how-code-systematic-program-design)
 
 ### tracts:
-[now] dataquest data analyst (paid)
+[now] dataquest data analyst / scientist (paid)
 
 #### todo  
 statistical inference course  
