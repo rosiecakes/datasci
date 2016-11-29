@@ -3,12 +3,18 @@ import read
 from dateutil.parser import parse
 
 
-df = read.load_data()
+def _return_hour(timestamp):
+    """ Grab the hour of a time object
+    """
 
-def return_hour(timestamp):
-    p = parse(timestamp)
-    return p.hour
+    return parse(timestamp).hour
 
-hours = df['submission_time'].apply(return_hour)
 
-print(hours.value_counts())
+def hour_frequency(series):
+    """ Return a series with its hour 
+        based on a time object
+    """
+    
+    hours = series.apply(_return_hour)
+    
+    return hours.value_counts()
